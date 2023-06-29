@@ -1,3 +1,3 @@
 # anime_wallpaper
 
-A new Flutter project.
+Primeiro projeto desenvolvido com o Flutter, criado apenas para ser objeto de estudo.
